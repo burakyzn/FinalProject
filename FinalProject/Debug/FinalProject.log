@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\casper\source\repos\finalproject\finalproject\main.cpp(17): warning C4309: 'başlatılıyor': sabit değer kesildi
+c:\users\casper\source\repos\finalproject\finalproject\main.cpp(18): warning C4309: 'başlatılıyor': sabit değer kesildi
+c:\users\casper\source\repos\finalproject\finalproject\main.cpp(19): warning C4309: 'başlatılıyor': sabit değer kesildi
+c:\users\casper\source\repos\finalproject\finalproject\main.cpp(20): warning C4309: 'başlatılıyor': sabit değer kesildi
+c:\users\casper\source\repos\finalproject\finalproject\main.cpp(947): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  FinalProject.vcxproj -> C:\Users\Casper\source\repos\FinalProject\Debug\FinalProject.exe
